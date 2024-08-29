@@ -2,6 +2,13 @@ using System.Diagnostics;
 
 namespace Programmation101 {
     public partial class Form1 : Form {
+        //Hungarian notation
+        //https://www.lenovo.com/us/en/glossary/what-is-hungarian-notation/?orgRef=https%253A%252F%252Fwww.google.com%252F
+
+        //Camel Case  : is a casing style where words are joined together without any spaces, and each new word starts with a capital letter except for the first word.
+        //Pascal Case : is similar to Camel Case, but the first letter of each word is capitalized.
+        //https://dev.to/ankitmalikg/difference-among-casings-snake-case-vs-camel-case-vs-pascal-case-vs-kebab-case-2m8b#:~:text=Pascal%20Case%20is%20similar%20to,C%23%2C%20Java%2C%20and%20TypeScript.
+
         private sbyte sbyId = 0;
         private byte bytId = 0;
 
@@ -21,9 +28,11 @@ namespace Programmation101 {
 
 
         //sbyte = -128 à 127
-        //Byte =     0 à 255     : 00000000  base 2: 0, 1;  base 10: 0,1,2,3,4,5,6,7,8,9, base 16: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
-        // 8 bit: 11111111
-        // 16 bit: 11111111 11111111 = 65535
+        //Byte =     0 à 255     : 00000000  base 2: 0,1;  base 10: 0,1,2,3,4,5,6,7,8,9, base 16: 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
+        //  1 byte = 8 bit
+        //  8 bit: 11111111          =        255   (256 valeurs possible)
+        // 16 bit: 11111111 11111111 =      65535 (65536 valeurs possible)
+        // 32 bit: 11111111 11111111 = 4294967295 (4294967296 valeurs possible)
 
         //intId  = - 2 147 483 648 à 2 147 483 647
         //uintId = 0 to 4294967295
@@ -33,11 +42,11 @@ namespace Programmation101 {
 
         //float -3,4028235E+38 à 3,4028234E+38
         //double -1,79769313486231570E+308 à 1,7976931348623157E+308
-        //bool = TRUE / FALSE                0/1
+        //bool = TRUE / FALSE                0/1 (1 bit)
 
         //string = "Bonjour"
 
-        //RGB(0, 50, 250)
+        //RGB(0, 50, 250)  // Hex #0032FA  Hex(00, 32, FA)
         //RGB(bytRed, bytGreen, bytBlue)
 
         public Form1() {
