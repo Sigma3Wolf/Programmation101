@@ -9,7 +9,7 @@
 	4. Mettre des données dans une variable.
 
 Youtube:
-https://youtu.be/EAFUixkh63w
+https://youtu.be/EAFUixkh63w?t=323
 
 Twitch (Live):
 https://www.twitch.tv/Sigma3Wolf
