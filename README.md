@@ -2,11 +2,17 @@
 
 # Programmation 101 - C# Les Variables
 
-	1. C'est quoi une variable
-	2. Les Types de variable principale (byte, int, long, uint, etc...)
-	3. les différence entre les variable pour la programmation et les
-		variable pour les bases de donnés
-	4. Mettre des données dans une variable
+	1. C'est quoi une variable.
+	2. Les Types de variable principale (byte, int, long, uint, etc...).
+	3. les différences entre les variables pour la programmation et les
+		variables pour les bases de données.
+	4. Mettre des données dans une variable.
 
-le lien Twitch video, je sera là.
+Youtube:
+https://youtu.be/EAFUixkh63w
+
+Twitch (Live):
 https://www.twitch.tv/Sigma3Wolf
+
+GitHub du Projet:
+https://github.com/Sigma3Wolf/Programmation101
