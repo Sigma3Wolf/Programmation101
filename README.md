@@ -8,11 +8,11 @@
 		variables pour les bases de données.
 	4. Mettre des données dans une variable.
 
+GitHub du Projet:
+https://github.com/Sigma3Wolf/Programmation101
+
 Youtube:
 https://youtu.be/EAFUixkh63w?t=323
 
 Twitch (Live):
 https://www.twitch.tv/Sigma3Wolf
-
-GitHub du Projet:
-https://github.com/Sigma3Wolf/Programmation101
